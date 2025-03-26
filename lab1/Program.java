@@ -1,3 +1,8 @@
+package lab1;
+
+import lab1.Book;
+import lab1.Library;
+
 import java.util.List;
 import java.util.Scanner;
 public class Program {

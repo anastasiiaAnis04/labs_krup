@@ -1,3 +1,7 @@
+package lab1;
+
+import lab1.Book;
+
 import java.util.ArrayList;
 import java.util.List;
 

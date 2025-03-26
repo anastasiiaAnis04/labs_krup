@@ -1,3 +1,5 @@
+package lab1;
+
 public class Book {
     private String id;
     private String title;
