@@ -1,0 +1,3 @@
+[submodule "lab2/utils"]
+	path = lab2/utils
+	url = https://github.com/anastasiiaAnis04/algoritm_sort.git
